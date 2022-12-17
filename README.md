@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Abijith-abs/Abijith-abs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 🔭 I’m currently Studying in model engineering college thrikkakara<br>🤝 I’m looking for help with programming and new logic ideas<br>🌱 I’m currently learning Computer Engineering<br>
